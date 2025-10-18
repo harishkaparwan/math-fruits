@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/math-fruits/static/css/main.727658ab.chunk.css",
-    "main.js": "/math-fruits/static/js/main.d807a532.chunk.js",
-    "main.js.map": "/math-fruits/static/js/main.d807a532.chunk.js.map",
+    "main.js": "/math-fruits/static/js/main.f7bf1fab.chunk.js",
+    "main.js.map": "/math-fruits/static/js/main.f7bf1fab.chunk.js.map",
     "runtime-main.js": "/math-fruits/static/js/runtime-main.2d2ee19c.js",
     "runtime-main.js.map": "/math-fruits/static/js/runtime-main.2d2ee19c.js.map",
     "static/js/2.b975e2dc.chunk.js": "/math-fruits/static/js/2.b975e2dc.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2d2ee19c.js",
     "static/js/2.b975e2dc.chunk.js",
     "static/css/main.727658ab.chunk.css",
-    "static/js/main.d807a532.chunk.js"
+    "static/js/main.f7bf1fab.chunk.js"
   ]
 }
