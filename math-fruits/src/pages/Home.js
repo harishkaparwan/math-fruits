@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import FruitCard from '../components/FruitCard';
 import Quiz from '../components/Quiz';
 
@@ -25,6 +26,17 @@ const Home = () => {
         <div className="home">
             <h1>Welcome to Math Fruits!</h1>
             <p>Learn about fruits while solving math problems!</p>
+            
+            <div className="quick-links" style={{ margin: '30px 0', textAlign: 'center' }}>
+                <h2 style={{ color: '#2c3e50', marginBottom: '20px' }}>🎮 Quick Start Games</h2>
+                <div style={{ display: 'flex', gap: '15px', justifyContent: 'center', flexWrap: 'wrap' }}>
+                    <Link to="/addition" className="quick-link-btn">➕ Addition Game</Link>
+                    <Link to="/subtraction" className="quick-link-btn">➖ Subtraction Game</Link>
+                    <Link to="/multiplication" className="quick-link-btn">✖️ Multiplication</Link>
+                    <Link to="/quiz" className="quick-link-btn">❓ Fruit Quiz</Link>
+                </div>
+            </div>
+
             <div className="fruit-cards">
                 {fruits.map((fruit, index) => (
                     <FruitCard key={index} fruit={fruit} />
