@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/math-fruits/static/css/main.727658ab.chunk.css",
-    "main.js": "/math-fruits/static/js/main.7a5f5e26.chunk.js",
-    "main.js.map": "/math-fruits/static/js/main.7a5f5e26.chunk.js.map",
+    "main.js": "/math-fruits/static/js/main.e96b6c56.chunk.js",
+    "main.js.map": "/math-fruits/static/js/main.e96b6c56.chunk.js.map",
     "runtime-main.js": "/math-fruits/static/js/runtime-main.2d2ee19c.js",
     "runtime-main.js.map": "/math-fruits/static/js/runtime-main.2d2ee19c.js.map",
-    "static/js/2.b975e2dc.chunk.js": "/math-fruits/static/js/2.b975e2dc.chunk.js",
-    "static/js/2.b975e2dc.chunk.js.map": "/math-fruits/static/js/2.b975e2dc.chunk.js.map",
+    "static/js/2.cc2ccc42.chunk.js": "/math-fruits/static/js/2.cc2ccc42.chunk.js",
+    "static/js/2.cc2ccc42.chunk.js.map": "/math-fruits/static/js/2.cc2ccc42.chunk.js.map",
     "index.html": "/math-fruits/index.html",
     "static/css/main.727658ab.chunk.css.map": "/math-fruits/static/css/main.727658ab.chunk.css.map",
-    "static/js/2.b975e2dc.chunk.js.LICENSE.txt": "/math-fruits/static/js/2.b975e2dc.chunk.js.LICENSE.txt"
+    "static/js/2.cc2ccc42.chunk.js.LICENSE.txt": "/math-fruits/static/js/2.cc2ccc42.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2d2ee19c.js",
-    "static/js/2.b975e2dc.chunk.js",
+    "static/js/2.cc2ccc42.chunk.js",
     "static/css/main.727658ab.chunk.css",
-    "static/js/main.7a5f5e26.chunk.js"
+    "static/js/main.e96b6c56.chunk.js"
   ]
 }
