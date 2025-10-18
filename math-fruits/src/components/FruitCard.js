@@ -4,7 +4,9 @@ const FruitCard = ({ fruit }) => {
     return (
         <div className="fruit-card">
             <h2>{fruit.name}</h2>
-            <img src={fruit.image} alt={fruit.name} />
+            <div className="fruit-emoji" style={{ fontSize: '4rem', textAlign: 'center', margin: '20px 0' }}>
+                {fruit.image}
+            </div>
             <p>{fruit.description}</p>
         </div>
     );
