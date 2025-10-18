@@ -32,7 +32,7 @@ const AdditionGame = () => {
 
   return (
     <div className="game-container">
-      <h1 className="game-title">➕ Addition Game</h1>
+      <h1 className="game-title">➕ Addition Game - Interactive!</h1>
       
       <div style={{ textAlign: 'center', padding: '20px' }}>
         <div style={{ fontSize: '2rem', margin: '20px 0' }}>
