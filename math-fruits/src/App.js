@@ -3,6 +3,9 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
 import Home from './pages/Home';
 import Quiz from './components/Quiz';
+import AdditionGame from './components/AdditionGame';
+import MultiplicationGame from './components/MultiplicationGame';
+import SubtractionGame from './components/SubtractionGame';
 import './styles/App.css';
 
 // Placeholder components for now
@@ -26,11 +29,11 @@ function App() {
         <main className="main-content">
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/addition" element={<GamePlaceholder title="Addition Game" description="Practice addition with fun visual elements and interactive gameplay!" />} />
+            <Route path="/addition" element={<AdditionGame />} />
             <Route path="/addition-more" element={<GamePlaceholder title="Advanced Addition" description="More challenging addition problems for advanced learners!" />} />
-            <Route path="/subtraction" element={<GamePlaceholder title="Subtraction Game" description="Learn subtraction through engaging exercises!" />} />
+            <Route path="/subtraction" element={<SubtractionGame />} />
             <Route path="/subtraction-more" element={<GamePlaceholder title="Advanced Subtraction" description="Advanced subtraction challenges!" />} />
-            <Route path="/multiplication" element={<GamePlaceholder title="Multiplication Game" description="Master multiplication tables with interactive games!" />} />
+            <Route path="/multiplication" element={<MultiplicationGame />} />
             <Route path="/multiplication-table" element={<GamePlaceholder title="Times Tables" description="Practice and memorize multiplication tables!" />} />
             <Route path="/counting" element={<GamePlaceholder title="Counting Table" description="Learn counting and number recognition!" />} />
             <Route path="/story-reader" element={<GamePlaceholder title="Story Reader" description="Interactive stories to improve reading skills!" />} />
