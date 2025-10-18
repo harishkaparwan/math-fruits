@@ -103,3 +103,42 @@ h1 {
     color: #555;
     line-height: 1.6;
 }
+
+.main-content {
+    min-height: calc(100vh - 80px);
+    padding: 20px;
+}
+
+/* Game component wrapper styles */
+.game-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.game-title {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+
+/* Ensure components have proper spacing */
+.App > main > * {
+    animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
