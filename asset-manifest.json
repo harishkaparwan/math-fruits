@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/math-fruits/static/css/main.efa6efdd.chunk.css",
-    "main.js": "/math-fruits/static/js/main.e698f084.chunk.js",
-    "main.js.map": "/math-fruits/static/js/main.e698f084.chunk.js.map",
+    "main.css": "/math-fruits/static/css/main.727658ab.chunk.css",
+    "main.js": "/math-fruits/static/js/main.d807a532.chunk.js",
+    "main.js.map": "/math-fruits/static/js/main.d807a532.chunk.js.map",
     "runtime-main.js": "/math-fruits/static/js/runtime-main.2d2ee19c.js",
     "runtime-main.js.map": "/math-fruits/static/js/runtime-main.2d2ee19c.js.map",
-    "static/js/2.ad7204d9.chunk.js": "/math-fruits/static/js/2.ad7204d9.chunk.js",
-    "static/js/2.ad7204d9.chunk.js.map": "/math-fruits/static/js/2.ad7204d9.chunk.js.map",
+    "static/js/2.b975e2dc.chunk.js": "/math-fruits/static/js/2.b975e2dc.chunk.js",
+    "static/js/2.b975e2dc.chunk.js.map": "/math-fruits/static/js/2.b975e2dc.chunk.js.map",
     "index.html": "/math-fruits/index.html",
-    "static/css/main.efa6efdd.chunk.css.map": "/math-fruits/static/css/main.efa6efdd.chunk.css.map",
-    "static/js/2.ad7204d9.chunk.js.LICENSE.txt": "/math-fruits/static/js/2.ad7204d9.chunk.js.LICENSE.txt"
+    "static/css/main.727658ab.chunk.css.map": "/math-fruits/static/css/main.727658ab.chunk.css.map",
+    "static/js/2.b975e2dc.chunk.js.LICENSE.txt": "/math-fruits/static/js/2.b975e2dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2d2ee19c.js",
-    "static/js/2.ad7204d9.chunk.js",
-    "static/css/main.efa6efdd.chunk.css",
-    "static/js/main.e698f084.chunk.js"
+    "static/js/2.b975e2dc.chunk.js",
+    "static/css/main.727658ab.chunk.css",
+    "static/js/main.d807a532.chunk.js"
   ]
 }
