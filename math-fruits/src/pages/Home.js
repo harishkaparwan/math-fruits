@@ -1,7 +1,6 @@
 import React from 'react';
 import FruitCard from '../components/FruitCard';
 import Quiz from '../components/Quiz';
-import './Home.css'; // Assuming you want to style the Home component
 
 const Home = () => {
     return (
