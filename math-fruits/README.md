@@ -64,7 +64,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
    ```bash
    git add .
    git commit -m "Setup GitHub Pages deployment"
-   git push origin main
+   git push origin master
    ```
 
 2. **Enable GitHub Pages in your repository**:
@@ -81,7 +81,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 
 #### Deployment Features
 
-- ✅ Automatic deployment on push to main branch
+- ✅ Automatic deployment on push to master branch
 - ✅ Manual deployment option available
 - ✅ Build optimization for production
 - ✅ Modern GitHub Actions workflow with caching
